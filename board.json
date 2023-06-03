@@ -1,7 +1,7 @@
 {
   "name": "CD4026B",
   "version": 1,
-  "description": "CD4026B",
+  "description": "CD4026B Counter & Seven Segment Decoder",
   "author": "Maverick",
   "width": 19.812,
   "height": 8.5,
