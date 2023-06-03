@@ -6,7 +6,7 @@
   "width": 19.812,
   "height": 8.5,
   
-  "chips": [{ "id": "chip", "type": "github:Droog71/CD4026B@0.0.1" }],
+  "chips": [{ "id": "chip", "type": "github:Droog71/CD4026B@0.0.2" }],
 
   "pins": {
     "CLK": { "x": 1.5, "y": 0, "target": "chip:CLK" },
