@@ -1,0 +1,23 @@
+{
+  "name": "CD4026B",
+  "author": "Maverick",
+  "docs": "https://www.ti.com/product/CD4026B",
+  "pins": [
+    "CLK",
+    "INH",
+    "DEI",
+    "DEO",
+    "CO",
+    "F",
+    "G",
+    "VSS",
+    "VDD",
+    "MR",
+    "UCS",
+    "C",
+    "B",
+    "E",
+    "A",
+    "D"
+  ]
+}
